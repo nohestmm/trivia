@@ -1,2 +1,1 @@
 #Trivia
-###Trivia para seleccionar
