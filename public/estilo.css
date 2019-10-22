@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Patua+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Fredoka+One&display=swap');
 
 body {
     margin: 0;
@@ -39,7 +39,7 @@ h1 {
     color:#7bdb53;
     margin-bottom: 40px;
     font-weight: lighter;
-    font-family: 'Patua One', cursive;
+    font-family: 'Fredoka One', cursive;
     -webkit-text-stroke: 2px black
 }
 
@@ -91,4 +91,7 @@ button:hover {
     display: none;
     color: red;
     font-size: 18px;
+}
+.titles{
+    font-family: 'Fredoka One', cursive;
 }
